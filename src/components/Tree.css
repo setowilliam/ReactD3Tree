@@ -1,0 +1,22 @@
+.node {
+    fill: #68b2a1;
+    stroke: lightblue;
+    stroke-width: 3;
+  }
+  
+  .link {
+    fill: none;
+    stroke: lightblue;
+    stroke-width: 3;
+  }
+
+  /* .svg-container {
+      height: 100%;
+      width: 100%;
+  } */
+
+  .svg-container {
+      border: 1px solid black;
+      height: 96vh;
+      width: 100%;
+  }
